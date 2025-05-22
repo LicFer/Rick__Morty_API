@@ -35,8 +35,8 @@ se localiza donde este alojado el proyecto (la ruta)
 para correr el servidor
 	npm run serve
 este genera dos direcciones
-  - Local:   http://localhost:####/
-  - Network: http://192.168.1.9:####/
+  - Local:   http://localhost:####/ (direccion de ejemplo)
+  - Network: http://192.168.1.9:####/ (direccion de ejemplo)
 local & network (da igual cual metas en el navegador)
 
 
