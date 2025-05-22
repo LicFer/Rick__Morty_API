@@ -15,13 +15,13 @@ npm install ---> lee el package.json, descarga e instala todas
 -instalar vue 2
 	npm install -g @vue/cli
 
--vuex para vue 2
+-vuex para vue 3
 	npm install vuex@3.6.2
-
--axios para vue 2
+(se instala vue 3, pero el proyecto funciona con vue 2)
+-axios para vue 3
 	npm install axios@1.7.8
 
--vue-router para vue 2
+-vue-router para vue 3
 	npm install vue-router@3.6.5
 
 -para verificar las dependencias instaladas
